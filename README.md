@@ -1,2 +1,2 @@
 # KIIT-BTech-CSE-C-Programming
-My first repositary as practice of C programming
+My first repository as practice of C programming
